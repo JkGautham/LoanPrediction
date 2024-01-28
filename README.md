@@ -1,5 +1,5 @@
 # LoanPrediction
-Loan Default Prediction, project did on Coursera
+Loan Default Prediction
 # Loan Default Prediction
 
 Welcome to the repository for my solution to the loan default prediction problem using a Random Forest Classifier. In this project, I aimed to predict which borrowers in the "test.csv" dataset are likely to default on their loans based on patterns identified in the "train.csv" dataset.
